@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am a final-year PhD student at University College London.
-My research interests are extremal and probabilistic combinatorics.
+My research interests are extremal and probabilistic combinatorics, and graph theory.
 
 I completed my undergraduate and master's studies at the University of Edinburgh. 
 Following this, I was awarded a Distinction for my MSc in Mathematics and Foundations of Computer Science from the University of Oxford.
