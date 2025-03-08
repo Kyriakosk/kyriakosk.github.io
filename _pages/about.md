@@ -7,7 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year PhD student at University College London. 
+I am a final-year PhD student at University College London.
+My research interests are extremal and probabilistic combinatorics.
+
+I completed my undergraduate and master's studies at the University of Edinburgh. 
+Following this, I was awarded a Distinction for my MSc in Mathematics and Foundations of Computer Science from the University of Oxford.
+Before starting my PhD, I worked as a Data Scientist at Actelligent Capital and continued part-time during my PhD.
 
 <style>
 ul {

@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Kyriakos Katsamaktsis"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Kyriakos Katsamaktsis"
+description              : &description "PhD student in Mathematics, University College London"
 url                      : https://kyriakosk.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Kyriakosk/kyriakosk.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Kyriakos Katsamaktsis"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at University College London"
-  location         : "London"
+  bio              : "PhD student in Mathematics at University College London"
+  location         : "London, United Kingdom"
   employer         : "University College London"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kyriakos.katsamaktsis.21@ucl.ac.uk"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Kyriakosk"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
