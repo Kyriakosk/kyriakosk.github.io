@@ -33,8 +33,8 @@
             <a href="{{ base_path }}{{ post.paperurl }}" rel="permalink">{{ title }}</a>
         {% endif %}
     </h3>
-
-      {% if post.paperurl %}
+        {% if post.paperurl %}
+            <u>test</u>
           {% if post.venue %}
             <p>In <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.</p>
           {% else %}
@@ -44,7 +44,7 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
+    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
     </li>
  </article>
 </div>
