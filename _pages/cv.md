@@ -7,11 +7,14 @@ redirect_from:
   - /resume
 ---
 
-My CV is available [here](https://drive.google.com/file/d/1g62ObAPj2tJpy8D2M2Ghc77YjPoUNKNk/view?usp=sharing).
-
-{% include base_path %}
+[//]: # (My CV is available [here]&#40;https://drive.google.com/file/d/1g62ObAPj2tJpy8D2M2Ghc77YjPoUNKNk/view?usp=sharing&#41;.)
 
 <iframe src="https://drive.google.com/file/d/1g62ObAPj2tJpy8D2M2Ghc77YjPoUNKNk/preview" width="640" height="480" allow="autoplay"></iframe>
+
+[//]: # ({% include base_path %})
+
+[//]: # ()
+[//]: # (<iframe src="https://drive.google.com/file/d/1g62ObAPj2tJpy8D2M2Ghc77YjPoUNKNk/preview" width="640" height="480" allow="autoplay"></iframe>)
 
 
 [//]: # (Education)
