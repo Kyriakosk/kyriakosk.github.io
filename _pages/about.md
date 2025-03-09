@@ -10,9 +10,8 @@ redirect_from:
 I am a final-year PhD student at University College London.
 My research interests are extremal and probabilistic combinatorics, and graph theory.
 
-I completed my undergraduate and master's studies at the University of Edinburgh. 
-Following this, I was awarded a Distinction for my MSc in Mathematics and Foundations of Computer Science from the University of Oxford.
-Before starting my PhD, I worked as a Data Scientist at Actelligent Capital and continued part-time during my PhD.
+My CV is available [here](https://github.com/Kyriakosk/kyriakosk.github.io/tree/master/files/cv/Kyriakos_Katsamaktsis_CV.pdf).
+
 
 <style>
 ul {
@@ -23,8 +22,9 @@ img {
 }
 </style>
 
-* [Publications](https://kyriakosk.github.io/publications/)
-* [CV](https://kyriakosk.github.io/cv/) 
+[//]: # (* [Publications]&#40;https://kyriakosk.github.io/publications/&#41;)
+
+[//]: # (* [CV]&#40;https://kyriakosk.github.io/cv/&#41; )
 
 [//]: # (* [Talks]&#40;https://kyriakosk.github.io/talks/&#41;)
 
