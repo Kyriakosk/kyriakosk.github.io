@@ -24,7 +24,9 @@ img {
 </style>
 
 * [Publications](https://kyriakosk.github.io/publications/)
-* [Talks](https://kyriakosk.github.io/talks/)
 * [CV](https://kyriakosk.github.io/cv/) 
+
+[//]: # (* [Talks]&#40;https://kyriakosk.github.io/talks/&#41;)
+
 
 
