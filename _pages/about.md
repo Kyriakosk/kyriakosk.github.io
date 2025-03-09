@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+About
+======
 I am a final-year PhD student at [University College London](https://www.ucl.ac.uk/).
 My research interests are extremal and probabilistic combinatorics, and graph theory.
 
