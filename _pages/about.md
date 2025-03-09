@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-I am a final-year PhD student at [University College London](https://www.ucl.ac.uk/).
+I am a final-year PhD student at <a href="https://www.ucl.ac.uk/" target="_blank" rel="noopener noreferrer">University College London</a>.
 My research interests are extremal and probabilistic combinatorics, and graph theory.
 
 My CV is available [here](https://kyriakosk.github.io/files/cv/Kyriakos_Katsamaktsis_CV.pdf).
