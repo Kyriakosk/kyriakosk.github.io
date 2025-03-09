@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-[//]: # (My CV is available [here]&#40;https://drive.google.com/file/d/1g62ObAPj2tJpy8D2M2Ghc77YjPoUNKNk/view?usp=sharing&#41;.)
+My CV is available [here](https://kyriakosk.github.io/files/cv/Kyriakos_Katsamaktsis_CV.pdf).
 
-<iframe src="https://drive.google.com/file/d/1g62ObAPj2tJpy8D2M2Ghc77YjPoUNKNk/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://kyriakosk.github.io/files/cv/Kyriakos_Katsamaktsis_CV.pdf" width="2176" height="1812" allow="autoplay"></iframe>
 
 [//]: # ({% include base_path %})
 
