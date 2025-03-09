@@ -30,9 +30,9 @@
 <!--        {% elsif post.paperurl %}-->
 <!--        <a href=" {{ post.paperurl }} ">{{ title }}</a>-->
       {% if post.paperurl and post.venue %}
-        <p><a href=" {{ post.paperurl }} ">{{ title }}</a>, in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.</p>
+        <a href=" {{ post.paperurl }} ">{{ title }}</a>, in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.
       {% elsif post.paperurl %}
-        <p><a href=" {{ post.paperurl }} ">{{ title }}</a>, manuscript. </p>
+        <a href=" {{ post.paperurl }} ">{{ title }}</a>, manuscript.
 <!--      {% else %}-->
 <!--        <a href="{{ base_path }}{{ post.paperurl }}" rel="permalink">{{ title }}</a>-->
       {% endif %}
