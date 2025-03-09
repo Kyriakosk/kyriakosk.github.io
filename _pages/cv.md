@@ -9,7 +9,7 @@ redirect_from:
 
 My CV is available [here](https://kyriakosk.github.io/files/cv/Kyriakos_Katsamaktsis_CV.pdf).
 
-<iframe src="https://kyriakosk.github.io/files/cv/Kyriakos_Katsamaktsis_CV.pdf" width="2176" height="1812" allow="autoplay"></iframe>
+<iframe src="https://kyriakosk.github.io/files/cv/Kyriakos_Katsamaktsis_CV.pdf" width="1000" height="800" allow="autoplay"></iframe>
 
 [//]: # ({% include base_path %})
 
