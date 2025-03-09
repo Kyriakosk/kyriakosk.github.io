@@ -15,6 +15,7 @@ My research interests are extremal and probabilistic combinatorics, and graph th
 
 My CV is available [here](https://kyriakosk.github.io/files/cv/Kyriakos_Katsamaktsis_CV.pdf).
 
+
 <style>
 ul {
 list-style-type: circle;
@@ -30,7 +31,9 @@ img {
 
 [//]: # (* [Talks]&#40;https://kyriakosk.github.io/talks/&#41;)
 
-My arXiv page can be found [here](https://arxiv.org/search/math?query=Katsamaktsis%2C+Kyriakos&searchtype=author&abstracts=show&order=-announced_date_first&size=50).
+[//]: # (My arXiv page can be found [here]&#40;https://arxiv.org/search/math?query=Katsamaktsis%2C+Kyriakos&searchtype=author&abstracts=show&order=-announced_date_first&size=50&#41;.)
+My arXiv page can be found <a href="https://arxiv.org/search/math?query=Katsamaktsis%2C+Kyriakos&searchtype=author&abstracts=show&order=-announced_date_first&size=50" target="_blank" rel="noopener noreferrer">here</a>.
+
 
 Publications
 ======
