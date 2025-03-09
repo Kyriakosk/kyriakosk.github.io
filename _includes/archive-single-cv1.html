@@ -27,10 +27,14 @@
       </div>
     {% endif %}
     <h3 class="archive__item-title" itemprop="headline">
-      {% if post.paperurl %}
-        <a href=" {{ post.paperurl }} ">{{ title }}</a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.paperurl }}" rel="permalink">{{ title }}</a>
+<!--        {% elsif post.paperurl %}-->
+<!--        <a href=" {{ post.paperurl }} ">{{ title }}</a>-->
+      {% if post.paperurl and post.venue %}
+        <p><a href=" {{ post.paperurl }} ">{{ title }}</a>, in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.</p>
+      {% elsif post.paperurl %}
+        <p><a href=" {{ post.paperurl }} ">{{ title }}</a>, manuscript. </p>
+<!--      {% else %}-->
+<!--        <a href="{{ base_path }}{{ post.paperurl }}" rel="permalink">{{ title }}</a>-->
       {% endif %}
     </h3>
     {% if post.read_time %}
