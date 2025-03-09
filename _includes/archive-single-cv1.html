@@ -39,15 +39,15 @@
 <!--    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}-->
     {% if post.venue and post.other_authors %}
       {% if post.arxiv %}
-        <p class="archive__item-excerpt" itemprop="description">(with {{ post.other_authors }}), preprint {{ post.venue }}</p>
+        <p class="archive__item-excerpt" itemprop="description">(with {{ post.other_authors }}), preprint <i>{{ post.venue }}</i></p>
       {% else %}
-        <p class="archive__item-excerpt" itemprop="description">(with {{ post.other_authors }}), in {{ post.venue }}</p>
+        <p class="archive__item-excerpt" itemprop="description">(with {{ post.other_authors }}), in <i>{{ post.venue }}</i></p>
       {% endif %}
     {% elsif post.venue %}
       {% if post.arxiv %}
-        <p class="archive__item-excerpt" itemprop="description">preprint {{ post.venue }}</p>
+        <p class="archive__item-excerpt" itemprop="description">preprint <i>{{ post.venue }}</i></p>
       {% else %}
-        <p class="archive__item-excerpt" itemprop="description">in {{ post.venue }}</p>
+        <p class="archive__item-excerpt" itemprop="description">in <i>{{ post.venue }}</i></p>
       {% endif %}
     {% endif %}
     </li>
