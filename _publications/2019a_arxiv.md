@@ -1,7 +1,6 @@
 ---
 title: "New Solutions to the Reflection Equation with Braces"
 collection: publications
-category: manuscripts
 permalink: /publication/2019a_arxiv
 excerpt: 'The reflection equation of Cherednik is a counterpart to the celebrated Yang-Baxter equation, with importance in the theory of integrable systems. We obtain several new solutions of the reflection equation using braces building on the work of Smoktunowicz, Vendramin and Weston.'
 date: 2019-05-29
