@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 About
-======
+-
 I am a final-year PhD student at <a href="https://www.ucl.ac.uk/" target="_blank" rel="noopener noreferrer">University College London</a>.
 My research interests are extremal and probabilistic combinatorics, and graph theory.
 
@@ -36,7 +36,7 @@ My arXiv page can be found <a href="https://arxiv.org/search/math?query=Katsamak
 
 
 Publications
-======
+-
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv1.html %}
   {% endfor %}</ul>
