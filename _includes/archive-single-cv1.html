@@ -38,9 +38,17 @@
     {% endif %}
 <!--    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}-->
     {% if post.venue and post.other_authors %}
-      <p class="archive__item-excerpt" itemprop="description">(with {{ post.other_authors }}), in {{ post.venue }}</p>
+      {% if post.arxiv %}
+        <p class="archive__item-excerpt" itemprop="description">(with {{ post.other_authors }}), preprint {{ post.venue }}</p>
+      {% else %}
+        <p class="archive__item-excerpt" itemprop="description">(with {{ post.other_authors }}), in {{ post.venue }}</p>
+      {% endif %}
     {% elsif post.venue %}
-      <p class="archive__item-excerpt" itemprop="description">in {{ post.venue }}</p>
+      {% if post.arxiv %}
+        <p class="archive__item-excerpt" itemprop="description">preprint {{ post.venue }}</p>
+      {% else %}
+        <p class="archive__item-excerpt" itemprop="description">in {{ post.venue }}</p>
+      {% endif %}
     {% endif %}
     </li>
  </article>
