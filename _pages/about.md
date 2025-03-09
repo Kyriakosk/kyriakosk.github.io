@@ -29,4 +29,8 @@ img {
 [//]: # (* [Talks]&#40;https://kyriakosk.github.io/talks/&#41;)
 
 
-
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
