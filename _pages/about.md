@@ -35,5 +35,5 @@ My arXiv page can be found [here](https://arxiv.org/search/math?query=Katsamakts
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-cv1.html %}
   {% endfor %}</ul>
